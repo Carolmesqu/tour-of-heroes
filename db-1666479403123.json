@@ -1,0 +1,89 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Inuyasha",
+      "description": "É o filho do Dai-Youkai Inu Taisho (grande youkai general canino), com a humana Izayoi. Pelo fato de ser meio-youkai, ele é desprezado por seu meio-irmão Sesshomaru, que é um youkai puro. InuYasha traz com ele terríveis lembranças de quando era criança, pois morava com sua mãe em uma aldeia de humanos onde ele era desprezado pelos outros moradores; também não era aceito pelos youkais, que tentavam consecutivamente matá-lo."
+    },
+    {
+      "id": 2,
+      "name": "Arthas Menethil",
+      "description": "Um promissor príncipe/herói renomado de Lordaeron."
+    },
+    {
+      "id": 3,
+      "name": "Thrall",
+      "description": "É um dos grandes personagens do universo de World of Warcraft que se tornou popular como o ex-Chefe Guerreiro da Horda."
+    },
+    {
+      "id": 4,
+      "name": "Violet Evergarden",
+      "description": "É uma garota que foi criada para o combate como um instrumento de guerra. Desde pequena é uma arma humana pronta para ser usada, e foi o que aconteceu."
+    },
+    {
+      "id": 5,
+      "name": "Sylvana Correventos",
+      "description": "É uma das três irmãs elfas Correventos, sendo as outras duas Alleria e Vereesa. Sua família vivia no Pico dos Correventos nas traquilas florestas de Quel'Thalas, lugar onde Sylvana se tornou a general-patrulheira de Luaprata, encarregada de defender o reino dos elfos."
+    },
+    {
+      "id": 6,
+      "name": "Homem de Ferro",
+      "description": "Sua verdadeira identidade é o empresário e bilionário Tony Stark, que usou armaduras de alta tecnologia no combate ao crime."
+    },
+    {
+      "id": 7,
+      "name": "Viúva Negra",
+      "description": "Ao nascer, foi entregue à KGB, que a prepara para se tornar sua agente suprema. Porém, o seu próprio governo tenta matá-la quando a União Soviética se desfaz."
+    },
+    {
+      "id": 8,
+      "name": "Jaina Proudmoore",
+      "description": "A poderosa arquimaga de Kirin Tor e com certeza uma das personagens mais icônicas do universo Warcraft."
+    },
+    {
+      "id": 9,
+      "name": "Genji Shimada",
+      "description": "Genji é um herói do tipo Dano em Overwatch."
+    },
+    {
+      "id": 10,
+      "name": "Angela Ziegler",
+      "description": "Mercy é um herói do tipo Suporte em Overwatch."
+    },
+    {
+      "id": 11,
+      "name": "Hanzo Shimada",
+      "description": "Hanzo é um herói do tipo Dano em Overwatch."
+    },
+    {
+      "id": 12,
+      "name": "Pantera Negra",
+      "description": "Um príncipe do reino de Wakanda, que perde o seu pai e viaja para os Estados Unidos, onde tem contato com os Vingadores."
+    },
+    {
+      "id": 13,
+      "name": "Kagome Higurashi",
+      "description": "Nasceu no Japão atual como a reencarnação da Sacerdotisa Kikyou da Era Feudal. Nasceu com a lendária Jóia de Quatro Almas sem saber dentro de seu corpo, só descobrindo o fato no dia do seu aniversário de quinze anos, quando uma youkai vinda do Poço-come-ossos (que fica no templo da família) leva ela para o Japão Feudal de 500 anos atrás."
+    },
+    {
+      "id": 14,
+      "name": "Mei-Ling Zhou",
+      "description": "Mei é um herói do tipo Dano em Overwatch."
+    },
+    {
+      "id": 15,
+      "name": "Capitão Cueca",
+      "description": "George Beard e Harold Hutchins são melhores amigos que passam os seus dias criando histórias em quadradinhos e sonhando com as peças que vão pregar. Um dia, acidentalmente hipnotizam o diretor da escola, levando-o a acreditar que ele é o Capitão Cueca, um super-herói."
+    },
+    {
+      "id": 16,
+      "name": "Illidan Tempesfúria",
+      "description": "Illidan, também conhecido pela alcunha de O Traidor, é um dos personagens mais icônicos do universo de World of Warcraft e que apareceu pela primeira vez em Warcraft III."
+    },
+    {
+      "id": 17,
+      "name": "Nagato",
+      "description": "Nagato é o líder da Akatsuki que deseja capturar as Bestas com Cauda seladas em várias pessoas ao redor do mundo shinobi."
+    }
+  ]
+}

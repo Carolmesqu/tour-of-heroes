@@ -1,0 +1,26 @@
+<!-- Nesta primeira div chamamos o metodo getMessages da linha 23 no message.service.ts
+por isso abrimos e fechamos () para invocarmos o metodo -->
+<div>
+
+<mat-accordion *ngIf="messageService.getMessages().length">
+    <mat-expansion-panel expanded="true">
+    <mat-expansion-panel-header>
+
+      <mat-panel-title> Messages </mat-panel-title>
+
+      <mat-panel-description>
+        {{messageService.getMessages().length}} record(s)
+      </mat-panel-description>
+
+<!-- Nesta segunda div atribuimos o valor que vai aparecer em cada interação  -->
+    </mat-expansion-panel-header>
+    <p><button mat-raised-button color="primary" (click)="messageService.clear()" >Clear messages</button></p>
+
+    <mat-list>
+      <mat-list-item *ngFor="let message of messageService.getMessages()"> {{message}} </mat-list-item>
+     </mat-list>
+
+  </mat-expansion-panel>
+</mat-accordion>
+</div>
+

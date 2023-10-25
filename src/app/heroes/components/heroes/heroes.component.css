@@ -1,0 +1,24 @@
+.add-button{
+  position: absolute;
+  right: 20px;
+  top: 80px;
+}
+
+.mat-row:hover{
+  cursor: pointer;
+  background: rgb(156, 42, 190);
+}
+
+.mat-column-id {
+  max-width: 60px;
+  }
+
+.mat-column-name {
+  max-width: 220px;
+}
+
+.mat-column-actions {
+  max-width: 60px;
+  padding-left: 16px;
+}
+

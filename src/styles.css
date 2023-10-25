@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Montserrat', sans-serif;
+  color: #d3d0bd;
+  background-color: #54146c ;}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+* {
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+mat-card-title{
+  font-family: 'Montserrat', sans-serif;
+
+}
